@@ -32,7 +32,7 @@ cd into the main directory
 1. Its actually SOO much effort that first you need a macOS device with xcode installed and a apple dev account and need to verify and sign the package before compiling it in the runner folder you open it with xcode for the signing app proccess and all this other stuff if you care enough look it up fr.
 
 
-**Its in a cross platform language so it can run on anything but its made for phone screens**
+**Its in a cross platform language so it can run on anything but it looks better on phone screens**
 
 ## iOS installation
 
