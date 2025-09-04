@@ -3,6 +3,7 @@
 ![tuff](readme/aaaaaaaaaaaaaalright.png)
 # visit here to download the app
 **https://zoil.netlify.app**
+Or just go to the Release section
 
 ## Features
 
